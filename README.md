@@ -7,7 +7,7 @@ As a technology person (CTO, Product Manager, Project Manager, Software Engineer
 Let’s see which ones other people are choosing!
 
 <details>
-  <summary>How to 😊 contribute your productivity 🚀 apps.</summary>
+  <summary>How to 😊 contribute your productivity 🚀 apps?</summary>
   
   #### Please kindly only edit ✍️ at **Technology People** section and follow below ⬇️ template.
   ~~~
