@@ -7,18 +7,21 @@ As a technology person (CTO, Product Manager, Project Manager, Software Engineer
 Let’s see which ones other people are choosing!
 
 <details>
-  <summary>Click me</summary>
+  <summary>How to 😊 contribute your productivity 🚀 apps.</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  ### Please kindly only edit ✍️ at **Technology People** section and follow below ⬇️ template.
+  ~~~
+  <details>
+  <summary>Your name, country flag, current job.</summary>
+  
+  - Describe your productivity app and its purpose.
+  - 
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  </details>
+  ~~~
+
 </details>
+
+### Summary
+
+### Technology People 
