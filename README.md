@@ -24,7 +24,19 @@ Let’s see which ones other people are choosing!
 
 ### Summary
 
-tbu
+#### By App
+
+![by app](by_app.png)
+
+#### By Job Position
+
+![by job position](by_job_position.png)
+
+#### By Country
+
+![by country](by_country.png)
+
+View the excel file report [here.](https://docs.google.com/spreadsheets/d/1S3tbzGKTX40qNmMo88tkAPYUshp2uZaoCoAwR2IjXNM/edit?usp=sharing)
 
 ### Technology People 
 
@@ -37,3 +49,6 @@ tbu
   - Apple Notes: take personal notes.
 
 </details>
+
+### Feel free to contribute, Cheers!!!
+
