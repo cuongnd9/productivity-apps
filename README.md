@@ -60,5 +60,15 @@ View the excel file report [here.](https://docs.google.com/spreadsheets/d/1S3tbz
 
 </details>
 
+<details>
+  <summary>Trần Minh Triết (triet1213) 🇻🇳 - UI/UX Designer.</summary>
+  
+  - [Bear](https://bear.app/): take work notes and documents.
+  - [Google Calendar](https://calendar.google.com/calendar): manage and remind for work.
+  - [Notion](https://www.notion.so/): store important content and data.
+  - [Grammarly](https://www.grammarly.com/): correct spelling and grammar errors.
+
+</details>
+
 #### Feel free 😊 to contribute, Cheers!!!
 
