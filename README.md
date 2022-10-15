@@ -29,7 +29,7 @@ tbu
 ### Technology People 
 
 <details>
-  <summary>Nguyễn Duy Cương (Harry Tran) 🇻🇳 - IT Staff.</summary>
+  <summary>Nguyễn Duy Cương (Harry Tran) 🇻🇳 - Software Engineer.</summary>
   
   - Google Calendar: manage and remind my anniversaries & my works.
   - Notion: take work notes and documents.
