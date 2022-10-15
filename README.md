@@ -12,10 +12,10 @@ Let’s see which ones other people are choosing!
   #### Please kindly only edit ✍️ at **Technology People** section and follow below ⬇️ template.
   ~~~
   <details>
-  <summary>Your name, country flag, current job.</summary>
+  <summary>Your name Country flag - Current job position.</summary>
   
   - Describe your productivity app and its purpose.
-  - 
+  - ...
 
   </details>
   ~~~
@@ -29,7 +29,7 @@ tbu
 ### Technology People 
 
 <details>
-  <summary>Nguyễn Duy Cương (Harry Tran), 🇻🇳, IT Staff.</summary>
+  <summary>Nguyễn Duy Cương (Harry Tran) 🇻🇳 - IT Staff.</summary>
   
   - Google Calendar: manage and remind my anniversaries & my works.
   - Notion: take work notes and documents.
