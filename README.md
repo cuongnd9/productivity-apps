@@ -22,23 +22,23 @@ Let’s see which ones other people are choosing!
 
 </details>
 
-### Summary
+### 🌳 Summary
 
-#### By App
+#### 🧜‍♀️ By App
 
 ![by app](by_app.png)
 
-#### By Job Position
+#### 👩‍💻 By Job Position
 
 ![by job position](by_job_position.png)
 
-#### By Country
+#### 🌏 By Country
 
 ![by country](by_country.png)
 
 View the excel file report [here.](https://docs.google.com/spreadsheets/d/1S3tbzGKTX40qNmMo88tkAPYUshp2uZaoCoAwR2IjXNM/edit?usp=sharing)
 
-### Technology People 
+### 🧚‍♀️ Technology People 
 
 <details>
   <summary>Nguyễn Duy Cương (Harry Tran) 🇻🇳 - Software Engineer.</summary>
@@ -50,5 +50,5 @@ View the excel file report [here.](https://docs.google.com/spreadsheets/d/1S3tbz
 
 </details>
 
-#### Feel free to contribute, Cheers!!!
+#### Feel free 😊 to contribute, Cheers!!!
 
