@@ -50,5 +50,15 @@ View the excel file report [here.](https://docs.google.com/spreadsheets/d/1S3tbz
 
 </details>
 
+<details>
+  <summary>Vi Chí Thiện (tvc12) 🇻🇳 - Software Engineer.</summary>
+  
+  - [Google Calendar](https://calendar.google.com/calendar): remind my meetings and my anniversaries.
+  - [Workflowy](https://workflowy.com/): manage my daily task.
+  - [Miro](https://miro.com/): draw code flow, take task notes.
+  - [Spotify](https://open.spotify.com/): relaxing, make new ideas.
+
+</details>
+
 #### Feel free 😊 to contribute, Cheers!!!
 
