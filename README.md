@@ -70,5 +70,15 @@ View the excel file report [here.](https://docs.google.com/spreadsheets/d/1S3tbz
 
 </details>
 
+<details>
+  <summary>Trương Quang Hiếu (quanhieu) 🇻🇳 - Software Engineer.</summary>
+  
+  - [Google Calendar](https://calendar.google.com/calendar): mark and announce the schedule for me.
+  - [Youtube](https://www.youtube.com/): relaxing and learn new thing.
+  - [System-monitor](https://extensions.gnome.org/extension/120/system-monitor/): check system status such as memory, CPU, network rates.
+  - [Dark Reader](https://darkreader.org/): make the browser darker and my eyes could relax.
+  - [Smplayer](https://www.smplayer.info/): the video player on ubuntu without annoying notification.
+</details>
+
 #### Feel free 😊 to contribute, Cheers!!!
 
